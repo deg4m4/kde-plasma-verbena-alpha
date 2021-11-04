@@ -1,0 +1,9 @@
+[TabBox]
+TouchBorderActivate=
+TouchBorderAlternativeActivate=
+
+[Effect-DesktopGrid]
+LayoutMode=1
+
+[Effect-PresentWindows]
+LayoutMode=1

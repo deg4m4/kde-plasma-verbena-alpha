@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment=Alpha by Parthka
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Alpha Light
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Verbena Visual Design Group
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=parthka.2005@gmail.com
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=org.verbena.alphalight.desktop
+X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Website=https://www.kde.org
+X-Plasma-MainScript=defaults

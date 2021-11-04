@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "parthka.2005@gmail.com",
+                "Name": "Parthka"
+            }
+        ],
+        "Category": "",
+        "Description": "Verbena Default Layout Menu Bar",
+        "EnabledByDefault": true,
+        "Id": "org.verbena.default.desktop.appmenubar",
+        "License": "LGPLv2+",
+        "Name": "Verbena Layout",
+        "ServiceTypes": [
+            "Plasma/LayoutTemplate"
+        ],
+        "Version": "1.0",
+        "Website": "https://www.kde.org/plasma-desktop"
+    },
+    "X-Plasma-ContainmentCategories": "panel",
+    "X-Plasma-Shell": "plasmashell"
+}

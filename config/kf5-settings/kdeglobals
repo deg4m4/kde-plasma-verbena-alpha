@@ -1,0 +1,7 @@
+[General]
+BrowserApplication=google-chrome.desktop
+
+[KDE]
+LookAndFeelPackage=org.verbena.alpha.desktop
+contrast=4
+

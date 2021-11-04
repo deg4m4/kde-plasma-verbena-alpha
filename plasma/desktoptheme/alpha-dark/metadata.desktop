@@ -1,0 +1,27 @@
+[AdaptiveTransparency]
+enabled=true
+
+[ContrastEffect]
+contrast=0.2
+enabled=true
+intensity=1.4
+saturation=10
+
+[Desktop Entry]
+Comment=Alpha by Parthka
+Name=Alpha Dark
+X-KDE-PluginInfo-Author=Verbena Visual Design Group
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=parthka.2005@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Name=Alpha
+X-KDE-PluginInfo-Version=5.87.0
+X-KDE-PluginInfo-Website=https://plasma.kde.org
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultFileSuffix=.png
+defaultHeight=1080
+defaultWallpaperTheme=Next
+defaultWidth=1920

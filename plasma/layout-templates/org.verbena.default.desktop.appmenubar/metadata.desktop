@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Verbena Layout
+Comment=Verbena Default Layout Menu Bar
+Type=Service
+X-KDE-ServiceTypes=Plasma/LayoutTemplate
+X-Plasma-Shell=plasmashell
+X-Plasma-ContainmentCategories=panel
+X-KDE-PluginInfo-Author=Parthka
+X-KDE-PluginInfo-Email=parthka.2005@gmail.com
+X-KDE-PluginInfo-Name=org.verbena.default.desktop.appmenubar
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://www.kde.org/plasma-desktop
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-License=LGPLv2+
+X-KDE-PluginInfo-EnabledByDefault=true

@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "parthka.2005@gmail.com",
+                "Name": "Verbena Visual Design Group"
+            }
+        ],
+        "Category": "",
+        "Description": "Alpha by Parthka",
+        "Id": "org.verbena.alpha.desktop",
+        "License": "GPLv2+",
+        "Name": "Alpha",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "2.0",
+        "Website": "https://www.kde.org"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-KDE-ParentApp": "",
+    "X-Plasma-MainScript": "defaults"
+}
