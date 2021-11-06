@@ -115,7 +115,7 @@ widgetStyle=Breeze
 
 [KDE]
 ColorScheme=BreezeLight
-LookAndFeelPackage=org.verbena.alpha.desktop
+LookAndFeelPackage=l=org.verbena.alpha.desktop
 contrast=4
 
 [KFileDialog Settings]
